@@ -1,0 +1,1 @@
+add_library(word word.h word.cpp)

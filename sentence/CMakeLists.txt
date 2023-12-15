@@ -1,0 +1,1 @@
+add_library(sentence sentence.h sentence.cpp)
